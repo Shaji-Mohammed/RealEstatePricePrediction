@@ -1,3 +1,4 @@
 pandas==2.2.2
 scikit-learn
 matplotlib
+seaborn==0.13.2
