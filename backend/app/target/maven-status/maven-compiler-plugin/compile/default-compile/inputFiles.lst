@@ -1,0 +1,10 @@
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/RealEstateApplication.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/config/CorsConfig.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/config/WebClientConfig.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PredictionController.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PredictionExceptionHandler.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PredictionRequest.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PredictionResponse.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PredictionService.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PythonServiceResponseException.java
+/Users/shajimohammed/Desktop/BCS/Projects/RealEstatePricePrediction/backend/app/src/main/java/com/shaji/realestate/prediction/PythonServiceUnavailableException.java

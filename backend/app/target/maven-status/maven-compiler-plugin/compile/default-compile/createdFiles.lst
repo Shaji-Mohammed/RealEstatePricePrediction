@@ -1,0 +1,10 @@
+com/shaji/realestate/prediction/PredictionExceptionHandler.class
+com/shaji/realestate/config/WebClientConfig.class
+com/shaji/realestate/prediction/PredictionRequest.class
+com/shaji/realestate/prediction/PythonServiceUnavailableException.class
+com/shaji/realestate/RealEstateApplication.class
+com/shaji/realestate/prediction/PythonServiceResponseException.class
+com/shaji/realestate/prediction/PredictionService.class
+com/shaji/realestate/config/CorsConfig.class
+com/shaji/realestate/prediction/PredictionController.class
+com/shaji/realestate/prediction/PredictionResponse.class

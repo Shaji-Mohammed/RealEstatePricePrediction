@@ -187,6 +187,14 @@ An `XGBRegressor` is also trained on the same feature set.
 
 ## Running the Project
 
+Create and activate the virtual environment inside the `ml` folder:
+
+```bash
+cd ml
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
 Install the required dependencies:
 
 ```bash
