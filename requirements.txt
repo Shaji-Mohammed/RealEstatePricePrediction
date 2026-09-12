@@ -3,3 +3,4 @@ scikit-learn
 matplotlib
 seaborn==0.13.2
 xgboost==3.4.1
+fastapi==0.141.1

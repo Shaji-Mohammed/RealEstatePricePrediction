@@ -41,13 +41,14 @@ Categorical variables are converted using one-hot encoding. The final Random For
 
 ## Model Comparison
 
-| Model                   |         R² |         RMSE |          MAE |
-| ----------------------- | ---------: | -----------: | -----------: |
-| Linear Regression       |     0.8554 |   $1,192,694 |     $335,352 |
-| SGD Regression          |     0.8555 |   $1,141,272 |            — |
-| Random Forest           |     0.9092 |     $470,465 |     $217,304 |
-| **Tuned Random Forest** | **0.9206** | **$453,091** | **$203,043** |
-| XGBoost                 |     0.9172 |     $454,398 |     $208,143 |
+| Model               |     R² |       RMSE |      MAE |
+| ------------------- | -----: | ---------: | -------: |
+| Linear Regression   | 0.8554 | $1,192,694 | $335,352 |
+| SGD Regression      | 0.8555 | $1,141,272 |        — |
+| Random Forest       | 0.9092 |   $470,465 | $217,304 |
+| Tuned Random Forest | 0.9206 |   $453,091 | $203,043 |
+| XGBoost             | 0.9172 |   $454,398 | $208,143 |
+| Tuned XGBoost       | 0.9252 |   $435,752 | $199,401 |
 
 Based on the evaluated metrics, the **tuned Random Forest** performs best among the models evaluated in the notebook.
 
